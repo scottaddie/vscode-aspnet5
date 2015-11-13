@@ -171,6 +171,7 @@ ClientBin/
 *.publishsettings
 node_modules/
 bower_components/
+wwwroot/lib/
 orleans.codegen.cs
 
 # RIA/Silverlight projects
