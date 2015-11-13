@@ -1,2 +1,2 @@
 # vscode-aspnet5
-Sample ASP.NET 5 Beta 8 app scaffolded with generator-aspnet for use in VS Code
+A sample ASP.NET 5 Beta 8 application scaffolded with OmniSharp's ASP.NET 5 Yeoman generator, called [generator-aspnet](https://github.com/omnisharp/generator-aspnet#readme).
