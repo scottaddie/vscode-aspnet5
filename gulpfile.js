@@ -5,6 +5,7 @@ var gulp = require("gulp"),
   rimraf = require("rimraf"),
   concat = require("gulp-concat"),
   cssmin = require("gulp-cssmin"),
+  shell = require("gulp-shell"),
   uglify = require("gulp-uglify");
 
 var webroot = "./wwwroot/";
@@ -45,3 +46,5 @@ gulp.task("min:css", function() {
 });
 
 gulp.task("min", ["min:js", "min:css"]);
+
+gulp.task("watch", shell.task(["dnx-watch web"]));
