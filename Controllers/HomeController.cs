@@ -4,10 +4,7 @@ namespace vscode_aspnet5.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public IActionResult Index() => View();
 
         public IActionResult About()
         {
@@ -23,9 +20,6 @@ namespace vscode_aspnet5.Controllers
             return View();
         }
 
-        public IActionResult Error()
-        {
-            return View("~/Views/Shared/Error.cshtml");
-        }
+        public IActionResult Error() => View();
     }
 }
