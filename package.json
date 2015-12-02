@@ -6,9 +6,6 @@
     "url": "https://github.com/scottaddie/vscode-aspnet5.git"
   },
   "license": "MIT",
-  "scripts": {
-    "install-deps": "dnu restore && npm i && bower i"
-  },
   "devDependencies": {
     "gulp": "3.9.0",
     "gulp-concat": "2.5.2",
