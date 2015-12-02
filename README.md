@@ -5,6 +5,5 @@ A sample ASP.NET 5 RC1 application scaffolded with OmniSharp's ASP.NET 5 Yeoman 
 Before getting started, make sure you have installed the DN* tooling required for ASP.NET 5/DNX projects. Specific installation instructions, by platform, can be found [here](https://docs.asp.net/en/latest/getting-started/index.html). Node.js, npm, Bower, and Git will also need to be installed.
 
 1. Open a command shell and navigate to the root project directory. 
-2. Install NuGet packages with: `dnu restore`
-3. Install NPM and Bower packages with: `npm i&&bower install`
-4. Start Kestrel web server in Production mode with: `dnx web`
+2. Install NuGet, npm, and Bower dependencies with: `npm run install-deps`
+3. Start Kestrel web server in Production mode with: `dnx web`
