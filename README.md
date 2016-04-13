@@ -5,6 +5,7 @@ A sample ASP.NET Core RC1 application scaffolded with OmniSharp's ASP.NET Core Y
 * [MadDotNet User Group](https://github.com/scottaddie/slide-decks/blob/master/Getting%20Started%20with%20ASP.NET%205%20in%20VS%20Code%20-%20RC1.pptx)
 * [South Florida Code Camp](https://github.com/scottaddie/slide-decks/blob/master/Getting%20Started%20with%20ASP.NET%205%20in%20VS%20Code%20-%20SFLCC.pptx)
 * [Dubuque .NET User Group](https://github.com/scottaddie/slide-decks/blob/master/Getting%20Started%20with%20ASP.NET%205%20in%20VS%20Code%20-%20SFLCC.pptx)
+* [NEWDUG](https://github.com/scottaddie/slide-decks/blob/master/Getting%20Started%20with%20ASP.NET%205%20in%20VS%20Code%20-%20SFLCC.pptx)
 
 ###Setup Instructions
 Before getting started, make sure you have installed the DN* tooling required for ASP.NET Core/DNX projects. Specific installation instructions, by platform, can be found [here](https://docs.asp.net/en/latest/getting-started/index.html). Node.js, npm, Bower, and Git will also need to be installed.
